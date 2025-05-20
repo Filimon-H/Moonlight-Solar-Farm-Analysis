@@ -40,3 +40,4 @@ Includes:
 ---
 
 📁 Data-driven insights to power smarter solar panel placement.
+

@@ -40,4 +40,19 @@ Includes:
 ---
 
 📁 Data-driven insights to power smarter solar panel placement.
+📊 Additional Insights & Tools
+Alongside the main dashboard:
 
+A Compare-Countries EDA notebook was created to explore detailed solar metrics across Benin, Togo, and Sierra Leone.
+
+This analysis focuses on comparing GHI, DNI, and DHI, and evaluates environmental factors like temperature, wind, and humidity.
+
+The EDA includes:
+
+Outlier detection
+
+Time-based trends
+
+Cleaning effects on sensor modules (ModA, ModB)
+
+All this feeds into the Streamlit Dashboard, which provides an interactive front-end for real-time data exploration and comparison across countries.
